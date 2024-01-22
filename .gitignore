@@ -1,0 +1,11 @@
+*.bak
+*.*.swp
+*.bkp
+*.dtmp
+.idea/
+.vscode/
+#.obsidian/core-plugins.json
+.obsidian/appearance.json
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.~*
