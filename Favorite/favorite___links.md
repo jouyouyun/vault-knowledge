@@ -12,6 +12,9 @@ draft: false
 ---
 此文档用于收集感兴趣的链接或项目，以备不时之需。
 
+## Tutorial
+- [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust/)  #rust #tutorial #danger
+
 ## Projects
 - [OpenGFW](https://github.com/apernet/OpenGFW)  #GFW #firewall #protocol #expr #offloading
   - summary: 一个 Linux 上灵活、易用、开源的 GFW 实现，并且在许多方面比真正的 GFW 更强大。可以部署在家用路由器上的网络主权。
@@ -33,3 +36,9 @@ draft: false
     - VPN/代理服务滥用防护
     - 流量分析 (纯日志模式)
   - note: 本项目仍处于早期开发阶段。测试时自行承担风险。(2024-01-22)
+
+## 文学
+- [在线古诗词-温故](https://shici.honmaple.com/)  #online #poetry #shici #古诗 #诗词 #温故
+  - summary: 一个在线的古诗词网站，可按照诗集、诗词、诗人等唯独展示
+  - features
+    - 基于 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 实现，一个中华古典文集数据库
