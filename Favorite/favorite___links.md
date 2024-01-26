@@ -42,3 +42,7 @@ draft: false
   - summary: 一个在线的古诗词网站，可按照诗集、诗词、诗人等唯独展示
   - features
     - 基于 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) 实现，一个中华古典文集数据库
+
+## 英语
+- [唐库学习](http://www.tanglib.com)  #english #tutorial
+  - summary: 世界名著在线阅读学英语，英汉对照，双语逐句朗读，适合影子跟读法学习。
