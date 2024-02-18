@@ -14,7 +14,9 @@ draft: false
 
 ## Tutorial
 - [Learn Rust the Dangerous Way](https://cliffle.com/p/dangerust/)  #rust #tutorial #danger
-
+- [RunningCode](https://code.gpthanghai.com)  #algorithm #leetcode
+  - summary: 高频算法题集合，可按题目类型、出处、难易程度进行检索，数据基于公开数据人工整理 + GPT 进行打标签。
+  - project: <https://github.com/tonyljx/running-leetcode>
 ## Projects
 - [OpenGFW](https://github.com/apernet/OpenGFW)  #GFW #firewall #protocol #expr #offloading
   - summary: 一个 Linux 上灵活、易用、开源的 GFW 实现，并且在许多方面比真正的 GFW 更强大。可以部署在家用路由器上的网络主权。
@@ -36,6 +38,8 @@ draft: false
     - VPN/代理服务滥用防护
     - 流量分析 (纯日志模式)
   - note: 本项目仍处于早期开发阶段。测试时自行承担风险。(2024-01-22)
+- <https://github.com/louislam/dockge>
+  - summary: 简单易用的docker compose管理平台，支持自建，提供 WebUI
 
 ## 文学
 - [在线古诗词-温故](https://shici.honmaple.com/)  #online #poetry #shici #古诗 #诗词 #温故
