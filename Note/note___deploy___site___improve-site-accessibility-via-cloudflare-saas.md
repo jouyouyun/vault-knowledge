@@ -89,7 +89,7 @@ draft: false
   }
   ```
 
-# 优先域名
+# 优选域名
 
 ``` ini
 Qatar2022(SAN JOSE IP) :
