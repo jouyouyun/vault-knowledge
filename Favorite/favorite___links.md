@@ -17,6 +17,11 @@ draft: false
 - [RunningCode](https://code.gpthanghai.com)  #algorithm #leetcode
   - summary: 高频算法题集合，可按题目类型、出处、难易程度进行检索，数据基于公开数据人工整理 + GPT 进行打标签。
   - project: <https://github.com/tonyljx/running-leetcode>
+- [线性代数：未竟之美_江大学竺可桢学院辅学讲义](https://github.com/yhwu-is/Linear-Algebra-Left-Undone) #数学 #线性代数 #tutorial
+  - features
+    - 本讲义兼具教材、笔记、复习提纲等多种功能
+    - 本讲义提供了丰富的例题和习题，几乎能覆盖到所有重要的概念、定理和方法，同时我们也为这些题目提供了详细的解答
+    - 在本讲义的编排过程中，我们摒弃了传统的讲授思路. 首先我们选择《大学数学：代数与几何》以及《线性代数应该这样学》作为参考教材，它们都是从抽象空间出发研究的，相比于一般的线性代数或高等代数教材更能深入本质
 ## Projects
 - [OpenGFW](https://github.com/apernet/OpenGFW)  #GFW #firewall #protocol #expr #offloading
   - summary: 一个 Linux 上灵活、易用、开源的 GFW 实现，并且在许多方面比真正的 GFW 更强大。可以部署在家用路由器上的网络主权。
