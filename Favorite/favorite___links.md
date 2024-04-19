@@ -22,6 +22,14 @@ draft: false
     - 本讲义兼具教材、笔记、复习提纲等多种功能
     - 本讲义提供了丰富的例题和习题，几乎能覆盖到所有重要的概念、定理和方法，同时我们也为这些题目提供了详细的解答
     - 在本讲义的编排过程中，我们摒弃了传统的讲授思路. 首先我们选择《大学数学：代数与几何》以及《线性代数应该这样学》作为参考教材，它们都是从抽象空间出发研究的，相比于一般的线性代数或高等代数教材更能深入本质
+- [Linux 内核教学](https://linux-kernel-labs-zh.xyz)
+  - features
+    - 本文档包含一系列 Linux 内核主题的课程和实验。课程侧重于理论和 Linux 内核探索。
+    - 实验侧重于设备驱动程序主题，文档风格类似“howto”。每个主题分两部分：
+      - 主题概述，包含概述、主要抽象概念、简单示例和对 API 的指引。
+      - 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示。
+    - 本文档内容基于布加勒斯特理工大学自动控制与计算机学院计算机科学与工程系的 [“操作系统 2”](http://ocw.cs.pub.ro/courses/so2) 课程。
+    - 你可以在 https://github.com/linux-kernel-labs-zh 获取最新版本。
 ## Projects
 - [OpenGFW](https://github.com/apernet/OpenGFW)  #GFW #firewall #protocol #expr #offloading
   - summary: 一个 Linux 上灵活、易用、开源的 GFW 实现，并且在许多方面比真正的 GFW 更强大。可以部署在家用路由器上的网络主权。
@@ -55,3 +63,7 @@ draft: false
 ## 英语
 - [唐库学习](http://www.tanglib.com)  #english #tutorial
   - summary: 世界名著在线阅读学英语，英汉对照，双语逐句朗读，适合影子跟读法学习。
+
+## Resume
+- [A LATEX Based Resume Builder](https://ppresume.com)  #resume #latex #pdf #chinese
+  - summary: 基于latex的简历生成网站，能够生成高质量的 pdf，并且支持中文！
