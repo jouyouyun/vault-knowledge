@@ -13,8 +13,7 @@ draft: false
 ## YABS
 
 ``` shell
-$ sudo bash ./yabs.sh -b -i -6
-[sudo] password for wen:
+$ bash ./yabs.sh -b -i -6
 # ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
 #              Yet-Another-Bench-Script              #
 #                     v2024-03-05                    #
@@ -69,4 +68,64 @@ Multi Core      | 11026
 Full Test       | https://browser.geekbench.com/v6/cpu/5457127
 
 YABS completed in 5 min 4 sec
+```
+
+---
+
+重开后，12C-22G 的性能测试：
+
+``` shell
+$ bash ./yabs.sh -b -i -6
+# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+#              Yet-Another-Bench-Script              #
+#                     v2024-04-22                    #
+# https://github.com/masonr/yet-another-bench-script #
+# ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## ## #
+
+Wed May  8 02:23:27 AM BST 2024
+
+Basic System Information:
+---------------------------------
+Uptime     : 0 days, 1 hours, 4 minutes
+Processor  : AMD EPYC-Milan Processor
+CPU cores  : 12 @ 4192.096 MHz
+AES-NI     : ✔ Enabled
+VM-x/AMD-V : ❌ Disabled
+RAM        : 21.9 GiB
+Swap       : 0.0 KiB
+Disk       : 180.9 GiB
+Distro     : Debian GNU/Linux 12 (bookworm)
+Kernel     : 6.1.0-9-amd64
+VM Type    : KVM
+IPv4/IPv6  : ✔ Online / ✔ Online
+
+IPv6 Network Information:
+---------------------------------
+ISP        : Hetzner Online GmbH
+ASN        : AS24940 Hetzner Online GmbH
+Location   : Falkenstein, Saxony (SN)
+Country    : Germany
+
+---------------------------------
+Block Size | 4k            (IOPS) | 64k           (IOPS)
+  ------   | ---            ----  | ----           ----
+Read       | 567.73 MB/s (141.9k) | 2.95 GB/s    (46.0k)
+Write      | 569.23 MB/s (142.3k) | 2.96 GB/s    (46.3k)
+Total      | 1.13 GB/s   (284.2k) | 5.91 GB/s    (92.4k)
+           |                      |
+Block Size | 512k          (IOPS) | 1m            (IOPS)
+  ------   | ---            ----  | ----           ----
+Read       | 3.14 GB/s     (6.1k) | 3.21 GB/s     (3.1k)
+Write      | 3.30 GB/s     (6.4k) | 3.43 GB/s     (3.3k)
+Total      | 6.45 GB/s    (12.6k) | 6.64 GB/s     (6.4k)
+
+Geekbench 6 Benchmark Test:
+---------------------------------
+Test            | Value
+                |
+Single Core     | 2737
+Multi Core      | 13368
+Full Test       | https://browser.geekbench.com/v6/cpu/6004164
+
+YABS completed in 4 min 56 sec
 ```
