@@ -30,6 +30,8 @@ draft: false
       - 实践部分，包含几个应由学生解决的练习；为了使学生专注于当下的主题，学生会得到一个起始编码框架和深入的解决练习的技巧提示。
     - 本文档内容基于布加勒斯特理工大学自动控制与计算机学院计算机科学与工程系的 [“操作系统 2”](http://ocw.cs.pub.ro/courses/so2) 课程。
     - 你可以在 https://github.com/linux-kernel-labs-zh 获取最新版本。
+- [玉涵的技能书](https://r00tk1ts.github.io/) #线性代数 #kernel
+- [用go语言实现一个类似docker的容器化功能](https://github.com/HobbyBear/tinydocker) #container #namespace #docker #golang
 ## Projects
 - [OpenGFW](https://github.com/apernet/OpenGFW)  #GFW #firewall #protocol #expr #offloading
   - summary: 一个 Linux 上灵活、易用、开源的 GFW 实现，并且在许多方面比真正的 GFW 更强大。可以部署在家用路由器上的网络主权。
